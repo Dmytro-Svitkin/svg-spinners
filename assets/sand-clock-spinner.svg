@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g4">
+    <animateTransform
+       attributeName="transform"
+       type="rotate"
+       begin="1s"
+       dur="4s"
+       repeatCount="indefinite"
+       values="0 16 16; 180 16 16; 180 16 16; 360 16 16; 360 16 16"
+       keyTimes="0; 0.25; 0.5; 0.75; 1"
+       calcMode="spline"
+       keySplines="0.42 0 0.58 1; 0 0 1 1; 0.42 0 0.58 1; 0 0 1 1" />
+    <path
+       id="path2"
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="M 6 6 C 6 8.902149 7.2954268 11.103065 9.1210938 12.841797 C 10.386317 14.04677 11.938441 15.0673 13.505859 16 C 11.938441 16.9327 10.386317 17.95323 9.1210938 19.158203 C 7.2954277 20.896935 6 23.097851 6 26 L 26 26 C 26 23.097851 24.704573 20.896935 22.878906 19.158203 C 21.613683 17.95323 20.061559 16.9327 18.494141 16 C 20.061559 15.0673 21.613683 14.04677 22.878906 12.841797 C 24.704573 11.103065 26 8.902149 26 6 L 6 6 z M 8.2871094 8.0097656 L 23.712891 8.0097656 C 23.326485 9.3131986 22.551654 10.377702 21.492188 11.386719 C 20.411028 12.416394 18.981624 13.372031 17.466797 14.273438 L 16 15.146484 L 14.533203 14.273438 C 13.018376 13.372032 11.58897 12.416393 10.507812 11.386719 C 9.4483445 10.377701 8.6735154 9.3131986 8.2871094 8.0097656 z ">
+      <animate
+         attributeName="opacity"
+         dur="4s"
+         repeatCount="indefinite"
+         values="0; 1; 1; 0; 0"
+         keyTimes="0; 0.25; 0.5; 0.75; 1"
+         calcMode="spline"
+         keySplines="0.42 0 0.58 1; 0 0 1 1; 0.42 0 0.58 1; 0 0 1 1" />
+    </path>
+    <path
+       id="path4"
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="M 6,6 C 6,8.902149 7.2954275,11.103065 9.1210938,12.841797 10.386317,14.04677 11.938441,15.0673 13.505859,16 11.938441,16.9327 10.386317,17.95323 9.1210938,19.158203 7.2954266,20.896935 6,23.097851 6,26 H 26 C 26,23.097851 24.704573,20.896935 22.878906,19.158203 21.613683,17.95323 20.061559,16.9327 18.494141,16 20.061559,15.0673 21.613683,14.04677 22.878906,12.841797 24.704573,11.103065 26,8.902149 26,6 Z m 10,10.853516 1.466797,0.873046 c 1.514827,0.901407 2.94423,1.857044 4.025391,2.886719 1.059466,1.009017 1.834297,2.07352 2.220703,3.376953 H 8.2871094 c 0.386406,-1.303433 1.1612361,-2.367935 2.2207026,-3.376953 1.08116,-1.029674 2.510564,-1.985312 4.025391,-2.886719 z">
+      <animate
+         attributeName="opacity"
+         dur="4s"
+         repeatCount="indefinite"
+         values="1; 0; 0; 1; 1"
+         keyTimes="0; 0.25; 0.5; 0.75; 1"
+         calcMode="spline"
+         keySplines="0.42 0 0.58 1; 0 0 1 1; 0.42 0 0.58 1; 0 0 1 1" />
+    </path>
+  </g>
+</svg>
