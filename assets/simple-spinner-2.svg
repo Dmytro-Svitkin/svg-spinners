@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <path
+     id="path8"
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 16 0 A 2 2 0 0 0 14 2 L 14 8 A 2 2 0 0 0 16 10 A 2 2 0 0 0 18 8 L 18 2 A 2 2 0 0 0 16 0 z ">
+     <animateTransform attributeName="transform" type="rotate" dur="3s" begin="0s" repeatCount="indefinite" values="0 16 16; 360 16 16; 360 16 16" keyTimes="0; 0.667; 1" calcMode="spline" keySplines="0.42 0 0.58 1; 0 0 1 1" />
+  </path>
+  <path
+     id="path9"
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 16 0 A 2 2 0 0 0 14 2 L 14 8 A 2 2 0 0 0 16 10 A 2 2 0 0 0 18 8 L 18 2 A 2 2 0 0 0 16 0 z ">
+     <animateTransform attributeName="transform" type="rotate" dur="3s" begin="0.2s" repeatCount="indefinite" values="0 16 16; 360 16 16; 360 16 16" keyTimes="0; 0.667; 1" calcMode="spline" keySplines="0.42 0 0.58 1; 0 0 1 1" />
+  </path>
+  <path
+     id="path10"
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 16 0 A 2 2 0 0 0 14 2 L 14 8 A 2 2 0 0 0 16 10 A 2 2 0 0 0 18 8 L 18 2 A 2 2 0 0 0 16 0 z ">
+     <animateTransform attributeName="transform" type="rotate" dur="3s" begin="0.4s" repeatCount="indefinite" values="0 16 16; 360 16 16; 360 16 16" keyTimes="0; 0.667; 1" calcMode="spline" keySplines="0.42 0 0.58 1; 0 0 1 1" />
+  </path>
+  <path
+     id="path11"
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 16 0 A 2 2 0 0 0 14 2 L 14 8 A 2 2 0 0 0 16 10 A 2 2 0 0 0 18 8 L 18 2 A 2 2 0 0 0 16 0 z ">
+     <animateTransform attributeName="transform" type="rotate" dur="3s" begin="0.6s" repeatCount="indefinite" values="0 16 16; 360 16 16; 360 16 16" keyTimes="0; 0.667; 1" calcMode="spline" keySplines="0.42 0 0.58 1; 0 0 1 1" />
+  </path>
+  <path
+     id="path12"
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 16 0 A 2 2 0 0 0 14 2 L 14 8 A 2 2 0 0 0 16 10 A 2 2 0 0 0 18 8 L 18 2 A 2 2 0 0 0 16 0 z ">
+     <animateTransform attributeName="transform" type="rotate" dur="3s" begin="0.8s" repeatCount="indefinite" values="0 16 16; 360 16 16; 360 16 16" keyTimes="0; 0.667; 1" calcMode="spline" keySplines="0.42 0 0.58 1; 0 0 1 1" />
+  </path>
+  <path
+     id="path13"
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 16 0 A 2 2 0 0 0 14 2 L 14 8 A 2 2 0 0 0 16 10 A 2 2 0 0 0 18 8 L 18 2 A 2 2 0 0 0 16 0 z ">
+     <animateTransform attributeName="transform" type="rotate" dur="3s" begin="1s" repeatCount="indefinite" values="0 16 16; 360 16 16; 360 16 16" keyTimes="0; 0.667; 1" calcMode="spline" keySplines="0.42 0 0.58 1; 0 0 1 1" />
+  </path>
+  <path
+     id="path14"
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 16 0 A 2 2 0 0 0 14 2 L 14 8 A 2 2 0 0 0 16 10 A 2 2 0 0 0 18 8 L 18 2 A 2 2 0 0 0 16 0 z ">
+     <animateTransform attributeName="transform" type="rotate" dur="3s" begin="1.2s" repeatCount="indefinite" values="0 16 16; 360 16 16; 360 16 16" keyTimes="0; 0.667; 1" calcMode="spline" keySplines="0.42 0 0.58 1; 0 0 1 1" />
+  </path>
+</svg>
